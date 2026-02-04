@@ -2,7 +2,7 @@
  Reads and Decodes Card Number and Expiry fields from a payment card via NFC module of an Android device. 
 
  ## Downloads
- Download the latest release of the application from [here](https://github.com/7Ragnarok7/NFC-Payment-Card-Reader/releases/tag/v1)  
+ Download the latest release of the application [here](https://github.com/7Ragnarok7/NFC-Payment-Card-Reader/releases/tag/v1)  
 
  ## Interface
  ![image](img_src/img-1.jpg)  
