@@ -48,7 +48,7 @@ class MainActivity : AppCompatActivity(), NfcAdapter.ReaderCallback {
         }
 
         val header = TextView(this).apply {
-            text = "NFC Card Scanner"
+            text = "NFC Payment Card Scanner"
             textSize = 26f
             typeface = Typeface.DEFAULT_BOLD
             setTextColor(Color.parseColor("#1A1C1E"))
@@ -176,7 +176,15 @@ class MainActivity : AppCompatActivity(), NfcAdapter.ReaderCallback {
             runOnUiThread {
                 lastReadNumber = card.cardNumber ?: ""
                 cardNumberText.text = lastReadNumber.chunked(4).joinToString(" ")
-                nameText.text = card.holderFirstname ?: card.holderLastname ?: "Name Not Found"
+
+                // Check if the name is available, otherwise show a friendly message
+                val cardholderName = if (!card.holderFirstname.isNullOrEmpty() || !card.holderLastname.isNullOrEmpty()) {
+                    "${card.holderFirstname ?: ""} ${card.holderLastname ?: ""}".trim()
+                } else {
+                    "Name withheld by issuer"
+                }
+
+                nameText.text = cardholderName
                 typeText.text = card.type.getName() // e.g., VISA, MASTERCARD
 
                 card.expireDate?.let {
@@ -187,6 +195,7 @@ class MainActivity : AppCompatActivity(), NfcAdapter.ReaderCallback {
                 statusText.text = "✅ Details Loaded"
                 statusText.setTextColor(Color.parseColor("#2ECC71"))
             }
+
         } catch (e: Exception) {
             Log.e("NFC", "Read Error", e)
             runOnUiThread {
