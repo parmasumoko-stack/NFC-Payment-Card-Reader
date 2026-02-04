@@ -6,7 +6,7 @@
  ## Downloads
  Download the latest release of the application [here](https://github.com/7Ragnarok7/NFC-Payment-Card-Reader/releases/tag/v1)  
  Latest Version: 2.0  
- Updates: Added support to read the Cardholder's Name and Card Type.
+ Updates in v2.0: Added support to read the Cardholder's Name and Card Type.
 
  ## Interface
  ![image](img_src/img-1.jpg)  
