@@ -16,7 +16,7 @@
  ![image](img_src/img-2.jpg)
 
  ## Limitations
- This tool is made for Android devices only due to the behavioural and security constraints in IOS devices.
+ This tool is made for Android devices only due to the behavioural and [security constraints](https://developer.apple.com/documentation/corenfc/nfcpaymenttagreadersession) in IOS devices.
 
 ## Disclaimer
 This tool is provided strictly for educational and ethical research purposes, such as learning about NFC technology, understanding EMV protocols and penetration testing with proper authorization.
@@ -29,4 +29,5 @@ The developer assumes no liability for misuse. Users of this application are sol
 
 
 ## Reference(s)
-EVM NFC paycard enrollment JAVA Library: https://github.com/devnied/EMV-NFC-Paycard-Enrollment
+EVM NFC paycard enrollment JAVA Library: https://github.com/devnied/EMV-NFC-Paycard-Enrollment  
+ISO-7816: https://en.wikipedia.org/wiki/ISO/IEC_7816
